@@ -1,0 +1,15 @@
+{
+  "name": "internet-speed-recorder",
+  "version": "1.0.0",
+  "description": "Performs and records regular internet speed tests",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Crispin Merriman",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "speedtest-net": "^1.2.8"
+  }
+}
